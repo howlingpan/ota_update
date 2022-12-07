@@ -126,11 +126,5 @@ app.*.map.json
 !.idea/dictionaries/
 !.idea/runConfigurations/
 
-# generated
-*.freezed.dart
-*.g.dart
-*.graphql.dart
-*.gr.dart
-
 #fastlane
 report.xml
